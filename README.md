@@ -13,8 +13,11 @@ Currently building projects to show real-world impact.
 
 ---
 ### 📂 Featured Projects
-1.  **[Teen Mental Health Risk Analytics](https://github.com/JMK/Risk-Mental-Health-Report)**  
-    `SQL + Power BI` | Analyzed teen survey data → Found 3 high-risk segments → Built 6-page dashboard.
+
+1.  **[Teen Mental Health Risk Analytics](https://github.com/JOSH484-lab/Risk-Mental-Health-Report)**  
+    `SQL | Power BI | Excel` | End-to-end analytics on teen social media & lifestyle data. 
+    Found 3 high-risk segments linked to 5+ hrs screen time. Built 6-page interactive dashboard to flag at-risk students.
+
     
 *More projects coming soon...*
 
