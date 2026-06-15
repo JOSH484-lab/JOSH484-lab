@@ -1,3 +1,5 @@
+02_power BI/01-Executive command center .png
+
 ### Hi, I'm JMK 👋 
 **Data Analyst | Kampala, UG**
 
