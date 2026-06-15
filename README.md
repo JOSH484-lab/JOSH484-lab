@@ -1,4 +1,4 @@
-[![Executive Command Center](https://github.com/JOSH484-lab/Risk-Mental-Health-Report/raw/main/Executive%20command%20center%20page%201.png)](https://github.com/JOSH484-lab/Risk-Mental-Health-Report)
+![Executive Command Center](https://github.com/JOSH484-lab/Risk-Mental-Health-Report/raw/main/02_power%20BI/01-Executive%20command%20center%20.png)
 
 
 ### Hi, I'm JMK 👋 
