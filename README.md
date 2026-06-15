@@ -27,7 +27,7 @@ Currently building projects to show real-world impact.
 ---
 ### 🤝 Let's Connect
 📧 Email: kyambaddejoshua287@gmail.com
-🔗 LinkedIn: linkedin.com/in/joshua-kyambadde-037148303
+🔗 LinkedIn: linkedin.com/in/joshua-kyambadde-037148303/
 📍 Kampala, Uganda
 
 *Open to Data Analyst, BI Analyst, and SQL roles.*
